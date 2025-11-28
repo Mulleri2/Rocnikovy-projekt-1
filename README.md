@@ -5,7 +5,7 @@ Oprava napájecího kabelu u kotoučové brusky
 
 # 🎯 Cíl projektu
 
-Cílem tohoto projektu bylo výměnit poškozený napájecí kabel (flexo kabelu) u starší kotoučové brusky, která fungovala pouze při hýbání kabelem cca 15cm od vidlice. 
+Cílem tohoto projektu bylo výměnit poškozený napájecí kabel (flexo kabel) u starší kotoučové brusky, která fungovala pouze při hýbání kabelem cca 15cm od vidlice. 
 
 Současně jsem také vyčištil vnitřek zařízení a ověřil správnou funkce po opravě.
 
