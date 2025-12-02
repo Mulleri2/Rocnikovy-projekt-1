@@ -24,5 +24,5 @@ Rád bych poděkoval táťkovi, který přišel s nápadem na tento projekt a ř
 
 Začal jsem tím, že mi taťka přinesl kotoučovou brusku a popsal mi problém - bruska fungovala správně jen když se "přiohnul" její přívodní kabel (flexo kabel) přibližně 15 cm od místa vstupu kabelu do brusky. Kabel byl již v jednom místě omotaný černou páskou, z čehož usuzuji, že kabel již někdo v minulosti opravoval.
 
-<img width="450" height="1728" alt="image" src="https://github.com/user-attachments/assets/3c34172e-5a26-412f-8399-171c4943e064" /> justify space <img width="450" height="1728" alt="image" src="https://github.com/user-attachments/assets/4c5fa8fd-7b93-432e-a939-45a0804eb44d" />
+<img width="450" height="1728" alt="image" src="https://github.com/user-attachments/assets/3c34172e-5a26-412f-8399-171c4943e064" />  <img width="450" height="1728" alt="image" src="https://github.com/user-attachments/assets/4c5fa8fd-7b93-432e-a939-45a0804eb44d" />
 
