@@ -19,3 +19,6 @@ Kabel byl navíc v jednom místě omotaný černou izolační páskou - zjevně 
 # Poděkování
 
 Rád bych poděkoval táťkovi, který přišel s nápadem na tento projekt a řašením problému na zařízení. Během opravy mi radil, pomáhal řešit problémy a také mi asistoval při focení průběhu projektu. Díky jeho pomoci se mi podařilo projekt dokončit.
+
+# Postup opravy
+
