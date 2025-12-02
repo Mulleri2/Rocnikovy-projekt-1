@@ -16,5 +16,6 @@ Bruska byla plně funkční pouze při pohybu s kabelem v určitém úhlu, což 
 Kabel byl navíc v jednom místě omotaný černou izolační páskou - zjevně následek předchozí opravy.
 
 
-# Postup opravy 
+# Poděkování
+
 
