@@ -27,3 +27,4 @@ Rozhodl jsem se celou opravu dokumentovat fotkami, jednak pro použití v projek
 <img width="410" height="1728" alt="image" src="https://github.com/user-attachments/assets/3c34172e-5a26-412f-8399-171c4943e064" />  <img width="410" height="1728" alt="image" src="https://github.com/user-attachments/assets/4c5fa8fd-7b93-432e-a939-45a0804eb44d" />
 
 
+Nejprve jsem vyšrouboval malý šroub v místě, kde kabel vstupuje do brusky a sundal jsem krytku, která držela kabel ve správné poloze. Dále jsem sejmul vnější plastový kryt, který zakrývá celé vnitřní ústrojí brusky
