@@ -36,3 +36,8 @@ Po sundání krytu jsem zjistil, že prostor uvnitř je silně zaprášený a pl
 
 
 <img width="400" height="1728" alt="image" src="https://github.com/user-attachments/assets/6b478d92-cdc6-4e4e-8145-28621db1a69f" />
+
+
+
+
+
