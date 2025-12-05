@@ -32,3 +32,6 @@ Nejprve jsem vyšrouboval malý šroub v místě, kde kabel vstupuje do brusky a
 <img width="270" height="1247" alt="image" src="https://github.com/user-attachments/assets/bbeba2fb-5bdc-4f59-98d8-ad93d3488bc5" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/70744b3c-b419-42ca-a3c2-99ad1b2d22d9" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/2c5d338e-c4da-4e5d-a2b4-70d07be2cd94" />
 
 
+Po sundání krytu jsem zjistil, že prostor uvnitř je silně zaprášený a plný nečistot. Proto jsem použil kompresor a vzduchem celý vnitřek důkladně vyfoukal, abych odstranil prach a drobné nečistoty, které by mohli narušit nebo ovlivnit funkci zařízení.
+
+
