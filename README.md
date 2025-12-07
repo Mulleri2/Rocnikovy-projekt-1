@@ -1,4 +1,4 @@
-# Název projektu
+<img width="2304" height="1728" alt="image" src="https://github.com/user-attachments/assets/610b5428-538c-4e10-9922-fbecf234a245" /># Název projektu
 
 Oprava napájecího kabelu u kotoučové brusky
 
@@ -49,7 +49,11 @@ Dále jsem Odšrouboval a odstranil malý kotvící plech, který brání ve vyt
 U kontaktů bylo fixem napsáno „blau" a „brown", což mi pomohlo správně si zapamatovat, který vodič kam patří. Samozdřejmě jsem si vše vyfotil, abych měl jistotu, že vše zpět zapojím správně. Následně jsem si připravil nový kabel, který jsem odizoloval podle délky odizolování původního kabelu. Nový kabel byl sice kratší, ale to nebyl problém, protože délka byla dostačující.
 
 
+<img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/96217f0a-2de4-4be9-ba2f-aebb133d3eb7" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/7367a23e-ddd6-42da-9ff1-a31867c8dc2a" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/f783da67-1135-4a5b-b7b8-c06420b0f242" />
 
+
+
+.
 
 
 
