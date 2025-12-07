@@ -35,7 +35,9 @@ Nejprve jsem vyšrouboval malý šroub v místě, kde kabel vstupuje do brusky a
 Po sundání krytu jsem zjistil, že prostor uvnitř je silně zaprášený a plný nečistot. Proto jsem použil kompresor a vzduchem celý vnitřek důkladně vyfoukal, abych odstranil prach a drobné nečistoty, které by mohli narušit nebo ovlivnit funkci zařízení.
 
 
-<img width="400" height="1728" alt="image" src="https://github.com/user-attachments/assets/6b478d92-cdc6-4e4e-8145-28621db1a69f" />                                                                                                                            
+<img width="400" height="1728" alt="image" src="https://github.com/user-attachments/assets/6b478d92-cdc6-4e4e-8145-28621db1a69f" />
+
+
 Dále jsem Odšrouboval a odstranil malý kotvící plech, který brání ve vytažení kabelu ze zařízení. Za ním byl kabel již odhalený, vedly z něj pouze dva vodiče - modrý a hnědý, které byly přišroubovány ke kontaktům uvnitř brusky. Pomocí šroubováku jsem vyšrouboval oba šroubky, které držely zmíněné vodiče na kontaktech a následně jsem celý kabel opatrně vyjmul z brusky. Všechny malé součástky (šroubky, podložky atd.) jsem odkládal do nádobky, abych je během opravy neztratil.
 
 
