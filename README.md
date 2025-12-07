@@ -46,7 +46,7 @@ Dále jsem Odšrouboval a odstranil malý kotvící plech, který brání ve vyt
 <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/a3341fec-bb8e-468f-99e3-4bc60e84c5f4" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/7c2c1d45-cc92-427f-a8ee-d7ce3642ffff" />
 
 
-
+U kontaktů bylo fixem napsáno „blau" a „brown", což mi pomohlo správně si zapamatovat, který vodič kam patří. Samozdřejmě jsem si vše vyfotil, abych měl jistotu, že vše zpět zapojím správně. Následně jsem si připravil nový kabel, který jsem odizoloval podle délky odizolování původního kabelu. Nový kabel byl sice kratší, ale to nebyl problém, protože délka byla dostačující.
 
 
 
