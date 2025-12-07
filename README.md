@@ -1,4 +1,4 @@
-Oprava napájecího kabelu u kotoučové brusky
+# Oprava napájecího kabelu u kotoučové brusky
 
 
 # Cíl projektu
