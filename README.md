@@ -42,6 +42,11 @@ Dále jsem Odšrouboval a odstranil malý kotvící plech, který brání ve vyt
 
 
 <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/2ad96602-6322-4650-9b2d-f87c338654e9" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/cfd1efc7-4766-4d30-b78d-0cdadf6e8070" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/2a596c0b-c4c2-4788-bad8-6ab9485f7a3a" />
+<img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/94a96cf3-05ec-4594-ae15-a2f3949a412d" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/ca64cf6e-2e89-49e6-bac3-dfec4a5cf334" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/fab495b5-59b0-4765-8dbe-d2369a780a71" />
+<img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/a3341fec-bb8e-468f-99e3-4bc60e84c5f4" /> <img width="270" height="2304" alt="image" src="https://github.com/user-attachments/assets/67c4f12d-4f11-455a-bb16-5bf017584522" />
+
+
+
 
 
 
