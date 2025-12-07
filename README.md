@@ -39,7 +39,7 @@ Po sundání krytu jsem zjistil, že prostor uvnitř je silně zaprášený a pl
 
 
 
-Dále jsem Odšrouboval a odstranil malý kotvící plech, který brání ve vytažení kabelu ze zařízení. Za ním byl kabel již odhalený, vedly z něj pouze dva vodiče - modrý a hnědý, které byly přišroubovány ke kontaktům uvnitř brusky. Pomocí šroubováku jsem vyšrouboval vyšrouboval oba šroubky, které držely zmíněné vodiče na kontaktech a následně jsem celý kabel opatrně vyjmul z brusky. Všechny malé součástky (šroubky, podložky atd.) jsem si odkládal do nádobky, abych je během opravy neztratil.
+Dále jsem Odšrouboval a odstranil malý kotvící plech, který brání ve vytažení kabelu ze zařízení. Za ním byl kabel již odhalený, vedly z něj pouze dva vodiče - modrý a hnědý, které byly přišroubovány ke kontaktům uvnitř brusky. Pomocí šroubováku jsem vyšrouboval oba šroubky, které držely zmíněné vodiče na kontaktech a následně jsem celý kabel opatrně vyjmul z brusky. Všechny malé součástky (šroubky, podložky atd.) jsem si odkládal do nádobky, abych je během opravy neztratil.
 
 
 
