@@ -7,18 +7,18 @@ Cílem tohoto projektu bylo výměnit poškozený napájecí kabel (flexo kabel)
 
 Současně jsem také vyčištil vnitřek zařízení a ověřil správnou funkci po opravě.
 
-# Popis výchozího stavu
+## Popis výchozího stavu
 
 Bruska byla plně funkční pouze při pohybu s kabelem v určitém úhlu, což ukazovalo na přerušený vodič uvnitř flexo kabelu.
 
 Kabel byl navíc v jednom místě omotaný černou izolační páskou - zjevně následek předchozí opravy.
 
 
-# Poděkování
+## Poděkování
 
 Rád bych poděkoval táťkovi, který přišel s nápadem na tento projekt a řašením problému na zařízení. Během opravy mi radil, pomáhal řešit problémy a také mi asistoval při focení průběhu projektu. Díky jeho pomoci se mi podařilo projekt dokončit.
 
-# Postup opravy
+## Postup opravy
 
 Rozhodl jsem se celou opravu dokumentovat fotkami, jednak pro použití v projektu a hlavně abych po opravě vše zapojil a vrátil do původního stavu. Začal jsem tím, že mi taťka přinesl kotoučovou brusku a popsal mi problém - bruska fungovala správně jen když se "přiohnul" její přívodní kabel (flexo kabel) přibližně 15 cm od místa vstupu kabelu do brusky. Kabel byl již v jednom místě omotaný černou páskou, z čehož usuzuji, že kabel již někdo v minulosti opravoval.
 
