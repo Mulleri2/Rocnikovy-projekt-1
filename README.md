@@ -74,3 +74,5 @@ Při nasazování nového kabelu jsem ho umístil na okraj brusky a jednotlivé 
 
 
 
+
+
