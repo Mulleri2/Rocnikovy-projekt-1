@@ -25,6 +25,10 @@ Ostatní: Elektrikářská izolační páska, podložky na šrouby
 
 Rád bych poděkoval táťkovi, který přišel s nápadem na tento projekt a řašením problému na zařízení. Během opravy mi radil, pomáhal řešit problémy a také mi asistoval při focení průběhu projektu. Díky jeho pomoci se mi podařilo projekt dokončit.
 
+## Citace
+
+
+
 ## Postup opravy
 
 Rozhodl jsem se celou opravu dokumentovat fotkami, jednak pro použití v projektu a hlavně abych po opravě vše zapojil a vrátil do původního stavu. Začal jsem tím, že mi taťka přinesl kotoučovou brusku a popsal mi problém - bruska fungovala správně jen když se "přiohnul" její přívodní kabel (flexo kabel) přibližně 15 cm od místa vstupu kabelu do brusky. Kabel byl již v jednom místě omotaný černou páskou, z čehož usuzuji, že kabel již někdo v minulosti opravoval.
