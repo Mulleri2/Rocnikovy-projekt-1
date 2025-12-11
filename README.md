@@ -64,6 +64,10 @@ U kontaktů bylo fixem napsáno „blau" a „brown", což mi pomohlo správně 
 Při nasazování nového kabelu jsem ho umístil na okraj brusky a jednotlivé vodiče jsem navedl do drážek k tomu určených abych je neskřípl, nebo jinak nepoškodil při nasazování krytu. Navíc jsem se rozhodl navléknout na šroubky podložky, aby vodiče lépe držely na kontaktech a zajištění bylo pevnější. Po zašroubování vodičů zpět na kontakty jsem přišrouboval zpět i malý kotvící plech, aby vše drželo pevně na svém místě jako před začátkem opravy.
 
 
+<img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/d9191df4-f2fe-44da-9c03-e6d23eef05f8" />
+
+
+
 
 
 
