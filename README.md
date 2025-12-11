@@ -17,7 +17,7 @@ Kabel byl navíc v jednom místě omotaný černou izolační páskou - zjevně 
 
 Součástky: Kotoučová bruska, Flexo kabel
 
-Nářadí: Šroubovák, zalamovací nůž
+Nářadí: Šroubovák, zalamovací nůž, kompresor
 
 Ostatní: Elektrikářská izolační páska, podložky na šrouby
 
