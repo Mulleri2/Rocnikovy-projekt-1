@@ -1,7 +1,7 @@
 # Oprava napájecího kabelu u kotoučové brusky
 
 
-# Cíl projektu
+## Cíl projektu
 
 Cílem tohoto projektu bylo výměnit poškozený napájecí kabel (flexo kabel) u starší kotoučové brusky, která fungovala pouze při hýbání kabelem cca 15cm od vidlice. 
 
