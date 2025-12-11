@@ -13,6 +13,7 @@ Bruska byla plně funkční pouze při pohybu s kabelem v určitém úhlu, což 
 
 Kabel byl navíc v jednom místě omotaný černou izolační páskou - zjevně následek předchozí opravy.
 
+## Použité součástky
 
 ## Poděkování
 
@@ -50,7 +51,7 @@ U kontaktů bylo fixem napsáno „blau" a „brown", což mi pomohlo správně 
 <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/96217f0a-2de4-4be9-ba2f-aebb133d3eb7" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/f783da67-1135-4a5b-b7b8-c06420b0f242" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/7367a23e-ddd6-42da-9ff1-a31867c8dc2a" />
 
 
-Při nasazování nového kabelu jsem ho umístil na okraj brusky a jednotlivé vodiče jsem navedl do drážek k tomu určených abych je neskřípl nebo jinak nepoškodil při nasazování krytu.
+Při nasazování nového kabelu jsem ho umístil na okraj brusky a jednotlivé vodiče jsem navedl do drážek k tomu určených abych je neskřípl, nebo jinak nepoškodil při nasazování krytu. Navíc jsem se rozhodl
 .
 
 
