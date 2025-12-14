@@ -27,7 +27,11 @@ Rád bych poděkoval táťkovi, který přišel s nápadem na tento projekt a ř
 
 ## Citace
 
+HOMER L. DAVIDSON. Troubleshooting and Repairing Power Tools. 1990. ISBN 0830633472.
 
+How to Replace the Power Cord on an Angle Grinder, YouTube video, 20XX, dostupné z https://youtu.be/sviAA9pU6xc?si=QGdhLTl_a40_8i1G
+
+iFixit. DeWalt DWE4011 power cable replacement. Dostupné z: https://www.ifixit.com/Guide/DeWalt+DWE4011+Power+Cable+Replacement/123299
 
 ## Postup opravy
 
