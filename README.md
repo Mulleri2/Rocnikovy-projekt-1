@@ -70,6 +70,9 @@ Při nasazování nového kabelu jsem ho umístil na okraj brusky a jednotlivé 
 V této fázi jsem si myslel že mám téměř hotovo, ale při kontrole jsem zjistil, že jsem zapomněl navléknout plastový kryt, který zakrývá vnitřní ústrojí brusky a jelikož dírou v krytu neprolezla zástrčka, tak jsem musel znovu vyšroubovat vodiče z kontaktů a kabel provléknout krytem z této strany.
 
 
+<img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/6d467f54-efea-4c19-9755-c40bb678effd" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/a4e5f8ea-ba1b-498c-94ae-e41f954c757a" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/2a216822-adb9-41f9-ad28-799bdc1b3740" />
+
+
 
 
 
