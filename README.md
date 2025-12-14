@@ -73,7 +73,13 @@ V této fázi jsem si myslel že mám téměř hotovo, ale při kontrole jsem zj
 <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/6d467f54-efea-4c19-9755-c40bb678effd" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/a4e5f8ea-ba1b-498c-94ae-e41f954c757a" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/2a216822-adb9-41f9-ad28-799bdc1b3740" />
 
 
+Nakonec jsem zasadil kryt a krytku u vstupního kabelu do brusky a zašrouboval je, tím jsem opravu dokončil.
 
+
+<img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/105e3560-9522-44e8-b0a1-3a5d4a71d037" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/a3c7af81-498b-4942-9cf1-9ff5587c0507" /> <img width="270" height="1728" alt="image" src="https://github.com/user-attachments/assets/f6025bfa-bbc6-42fd-b78f-5ed10aa3094c" />
+
+
+Taťka si brusku vzal a šel ji odskoušet, já jsem čekal u zásuvky, abych ji v případě potřeby mohl rychle vypojit. Naštěstí bruska fungovala bez problémů, a tak jsem mohl být spokojený, že oprava byla úspěšná.
 
 
 
